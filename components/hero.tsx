@@ -3,7 +3,7 @@ import { SignupForm } from './signup-form';
 
 export function Hero() {
   return (
-    <section className="breakout relative h-screen w-full flex flex-col items-center justify-between bg-[#E6EAEE] overflow-hidden pt-32">
+    <section className="breakout relative h-dvh w-full flex flex-col items-center justify-between bg-[#E6EAEE] overflow-hidden pt-32">
       <div className="flex flex-col items-center text-center px-4 max-w-4xl mx-auto z-10">
         <h1 className="text-4xl md:text-6xl font-bold text-neutral-900 tracking-tight mb-4">
           Migrating to Something Better
